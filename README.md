@@ -15,4 +15,3 @@ This repository provisions an AWS EC2 instance using **Terraform (module-based s
 - Install and run Strapi
 - Push code to GitHub and raise a Pull Request
 
-# Loom video Link:
